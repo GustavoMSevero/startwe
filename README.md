@@ -2,13 +2,7 @@
 
 ## Descrição
 
-O StartWe é um projeto que visa [inserir objetivo do projeto]. Este projeto foi criado para [explique brevemente o problema que o projeto resolve ou a necessidade que atende].
-
-## Funcionalidades
-
-- [Funcionalidade 1]: Descrição da funcionalidade 1.
-- [Funcionalidade 2]: Descrição da funcionalidade 2.
-- [Funcionalidade 3]: Descrição da funcionalidade 3.
+O StartWe é um projeto que visa mostrar as startups em uma plataforma e pedir ajuda nas áreas em que elas necessitam para crescerem. Este projeto foi criado para ajuda as startups nos estágios iniciais.
 
 ## Tecnologias Utilizadas
 
