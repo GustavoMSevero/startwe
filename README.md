@@ -19,6 +19,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/waldirborbajr/startwe.git
    ```
+
 ## Navegue até o diretório do projeto:
 
 cd startwe
@@ -33,13 +34,7 @@ cd startwe
 
 ## Uso
 
-Após a instalação, você pode acessar o projeto através do navegador no endereço http://localhost:[porta]. As principais funcionalidades incluem:
-
-### Funcionalidade 1: Como utilizar a funcionalidade 1.
-
-### Funcionalidade 2: Como utilizar a funcionalidade 2.
-
-### Funcionalidade 3: Como utilizar a funcionalidade 3.
+Após a instalação, você pode acessar o projeto através do navegador no endereço http://localhost:[porta].
 
 ## Contribuição
 
@@ -61,5 +56,4 @@ Este projeto está licenciado sob a licença [Nome da Licença]. Veja o arquivo 
 
 ## Contato
 
-Para mais informações, entre em contato com [Seu Nome] em [seu.email@example.com].
-
+Para mais informações, entre em contato com Gustavo M Severo em gustavo.msevero@gmail.com.
