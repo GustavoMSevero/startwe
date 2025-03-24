@@ -43,7 +43,7 @@ app.controller("criarNovaStartupCtrl", [
       perfilStartup.nomeResponsavel = $scope.usuario;
 
       $http.post(urlPrefix, perfilStartup).then(function (response) {
-        //console.log(response.data)
+        console.log(response.data);
         $location.path("/feed");
       });
     };
