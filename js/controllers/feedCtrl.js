@@ -57,7 +57,7 @@ app.controller("feedCtrl", [
       var option = "exibir startups";
 
       $http.get(urlOptionPrefix + option).then(function (response) {
-        console.log(response.data);
+        // console.log(response.data);
         $scope.startups = response.data;
       });
     };
