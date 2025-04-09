@@ -45,10 +45,9 @@
   </head>
 
   <body>
-    <div class="todoForm">
+    <div class="todoForm" ng-controller="perfilStartupCtrl">
         <div
         class="container-fluid editarPerfilStartup"
-        ng-controller="perfilStartupCtrl"
         >
         <div class="row">
             <div class="col-sm-16 col-md-16 tituloCadastroStartup">
@@ -63,6 +62,7 @@
                 <input
                     class="startup"
                     type="text"
+                    required
                     name="nomeStartup"
                     ng-model="perfilStartup.nomeStartup"
                 />
@@ -73,6 +73,7 @@
                     name="resumo"
                     cols="49"
                     rows="5"
+                    required
                     ng-model="perfilStartup.resumo"
                     placeholder="Sou engenheiro elétrico a 10 anos..."
                 >
@@ -381,28 +382,28 @@
                 <textarea
                 name="problema"
                 ng-model="perfilStartup.problema"
-                required
                 id=""
                 cols="50"
                 rows="5"
+                required
                 ></textarea>
                 <p id="solucao">A solução:</p>
                 <textarea
                 namesolucao
                 ng-model="perfilStartup.solucao"
-                required
                 id=""
                 cols="50"
                 rows="5"
+                required
                 ></textarea>
                 <p id="diferencial">Diferencial inovativo:</p>
                 <textarea
                 namediferencial
                 ng-model="perfilStartup.diferencial"
-                required
                 id=""
                 cols="50"
                 rows="5"
+                required
                 ></textarea>
             </div>
             </div>
