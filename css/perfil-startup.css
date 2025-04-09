@@ -1,84 +1,88 @@
-.cadastroPerfilStartup{
-    height: 100%;
+.todoForm {
+  background-color: white;
 }
 
-.tituloCadastroStartup{
-    background-color: #3b3189;
-    margin-left: 20%;
-    height: 50px;
-    width: 60%;
-    margin-top: 20px;
+.cadastroPerfilStartup {
+  height: 100%;
 }
 
-#cadastroStartup{
-    padding-left: 10px;
-    padding-top: 5px;
-    color: white;
+.tituloCadastroStartup {
+  background-color: #3b3189;
+  margin-left: 20%;
+  height: 50px;
+  width: 60%;
+  margin-top: 20px;
 }
 
-.perfilStartup{
-    margin-top: 20px;
+#cadastroStartup {
+  padding-left: 10px;
+  padding-top: 5px;
+  color: white;
 }
 
-.startup{
-    width: 30%;
-    margin-left: 20%;
+.perfilStartup {
+  margin-top: 20px;
 }
 
-#nomeResponsavel{
-    margin-top: 20px;
-    margin-left: 110%;
+.startup {
+  width: 30%;
+  margin-left: 20%;
 }
 
-.descricaoResumo{
-    margin-top: 20px;
-    margin-left: 21%;
+#nomeResponsavel {
+  margin-top: 20px;
+  margin-left: 110%;
 }
 
-.perguntas{
-    margin-top: 60px;
-    margin-left: 20%;
-    font-weight: bold;
+.descricaoResumo {
+  margin-top: 20px;
+  margin-left: 21%;
 }
 
-#necessidade{
-    margin-bottom: 20px;
+.perguntas {
+  margin-top: 60px;
+  margin-left: 20%;
+  font-weight: bold;
 }
 
-#prestacaoServico{
-    margin-top: 20px;
+#necessidade {
+  margin-bottom: 20px;
 }
 
-.estagio{
-    margin-left: 20%;
+#prestacaoServico {
+  margin-top: 20px;
 }
 
-#labelEstagio{
-    margin-top: 20px;
-    font-weight: bold;
-    color: black;
+.estagio {
+  margin-left: 20%;
 }
 
-.btnCadastrarStartup{
-    margin-top: 20px;
+#labelEstagio {
+  margin-top: 20px;
+  font-weight: bold;
+  color: black;
 }
 
-.problemaSolucaoDiferencial{
-    margin-top: 20px;
-    margin-left: 20%;
+.btnCadastrarStartup {
+  margin-top: 20px;
 }
 
-#labelProblema{
-    font-weight: bold;
-    color: black;
+.problemaSolucaoDiferencial {
+  margin-top: 20px;
+  margin-left: 20%;
 }
 
-#labelSolucao{
-    font-weight: bold;
-    color: black;
+#labelProblema {
+  font-weight: bold;
+  color: black;
 }
 
-#labelDiferencial{
-    font-weight: bold;
-    color: black;
+#labelSolucao {
+  font-weight: bold;
+  color: black;
+}
+
+#labelDiferencial {
+  font-weight: bold;
+  color: black;
 }
